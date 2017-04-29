@@ -1,6 +1,7 @@
 ﻿Hello world
 
 
+More stuff I'm typing
 
 2nd commit stuff
 
@@ -11,3 +12,5 @@
 5th commit stuff
 
 7th sense
+
+8th sense
